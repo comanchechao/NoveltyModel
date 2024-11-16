@@ -3,14 +3,14 @@
 !pip install kagglehub --upgrade
 
 import os
-import kagglehub
+import kagglehub # type: ignore
 import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
-from sklearn.model_selection import train_test_split
-import torch
-from torch.utils.data import Dataset, DataLoader
-import torch.nn as nn
+import matplotlib.pyplot as plt # type: ignore
+import seaborn as sns # type: ignore
+from sklearn.model_selection import train_test_split # type: ignore
+import torch # type: ignore
+from torch.utils.data import Dataset, DataLoader # type: ignore
+import torch.nn as nn # type: ignore
 
 # Download dataset
 path = kagglehub.dataset_download("saketk511/world-important-events-ancient-to-modern")
@@ -24,10 +24,10 @@ csv_file_path = f"{path}/World Important Dates.csv"
 
 # Load the data
 data = pd.read_csv(csv_file_path)
- def walk_through_dir(csv_file_path):
+def walk_through_dir(csv_file_path):
 
-  for dirpath, dirnames, filenames in os.walk(dir_path):
-    print(f"There are {len(dirnames)} directories and {len(filenames)} images in '{dirpath}'.")
+    for dirpath, dirnames, filenames in os.walk(dir_path):
+        print(f"There are {len(dirnames)} directories and {len(filenames)} images in '{dirpath}'.")
 # Extract year from the 'Date' column while ignoring month and day
 data['Year'] = data['Date'].str.extract(r'(\d{4})')[0]
 data['Year'] = pd.to_numeric(data['Year'], errors='coerce')
