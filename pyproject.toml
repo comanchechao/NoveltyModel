@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "noveltymodel"
+version = "0.1.0"
+description = "An AI model based on Terence Mckenna's Novelty Theory"
+authors = ["Chao <61477751+comanchechao@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pandas = "^2.2.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
