@@ -1,16 +1,16 @@
-# Existing code imports and setup
-!pip install kaggle --upgrade
-!pip install kagglehub --upgrade
-
+# Standard library imports
 import os
-import kagglehub # type: ignore
+
+# Third-party library imports
 import pandas as pd
-import matplotlib.pyplot as plt # type: ignore
-import seaborn as sns # type: ignore
-from sklearn.model_selection import train_test_split # type: ignore
-import torch # type: ignore
-from torch.utils.data import Dataset, DataLoader # type: ignore
-import torch.nn as nn # type: ignore
+import matplotlib.pyplot as plt
+import seaborn as sns
+from sklearn.model_selection import train_test_split
+import torch
+from torch.utils.data import Dataset, DataLoader
+import torch.nn as nn
+import kagglehub
+
 
 # Download dataset
 path = kagglehub.dataset_download("saketk511/world-important-events-ancient-to-modern")
