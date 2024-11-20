@@ -1,0 +1,92 @@
+idx,Year,Event,Category,Impact
+0,1969,Moon Landing,Technological,High
+1,1989,Fall of Berlin Wall,Political,High
+2,1994,Rwandan Genocide,Humanitarian,Very High
+3,2001,9/11 Terror Attacks,Political,High
+4,2012,Launch of Bitcoin,Financial,Moderate
+5,1963,March on Washington,Social Movement,High
+6,1975,Vietnam War Ends,Political,High
+7,1968,Vietnam War,Political,High
+8,1997,Release of the World Wide Web,Technological,High
+9,1997,Tsunami in the Indian Ocean,Natural,Extreme
+10,2008,Global Financial Crisis,Economic,Extreme
+11,1984,"Publication of ""1984"" by George Orwell",Literary,High
+12,2005,WikiLeaks Publications,Political,High
+13,1986,Chernobyl Disaster,Environmental,High
+15,1971,Introduction of Email,Technological,Moderate
+16,1984,Cambodia Floods,Natural Disaster,High
+17,1975,End of Apartheid in South Africa,Social,High
+18,2004,Arab Spring Begins,Political,High
+19,2007,Lehman Brothers Bankruptcy,Financial,High
+20,2010,Occupy Wall Street Movement,Political,Moderate
+21,1997,Dot-com Bubble Burst,Technological,Moderate
+22,2008,Global Financial Crisis,Economic,Very High
+23,1997,Introduction of Wi-Fi,Technological,Moderate
+25,1986,Chernobyl Disaster,Environmental,High
+26,1997,Taj Mahal Restoration,Heritage,Moderate
+27,1986,Chernobyl Disaster,Environmental,Very High
+28,2007,iPhone Launch,Technological,Moderate
+29,2010,Haiti Earthquake,Natural,Very High
+30,2015,Same-Sex Marriage Legalization in Many Countries,Social,High
+31,2006,Invention of the Smartphone,Technological,High
+32,2011,Arab Spring Begins,Political,High
+33,2000,Repeal of Prohibition in the United States,Social,High
+35,1997,Release of the Human Genome Project Draft,Scientific,Moderate
+36,2003,London Bombings,Terrorism,Moderate
+37,1997,Creation of the World Wide Web,Technological,High
+38,2010,Deepwater Horizon Oil Spill,Environmental,High
+39,2012,Documentary 'Blackfish' released,Environmental,Moderate
+40,2016,Brexit Referendum,Political,High
+41,2011,Occupy Wall Street Movement,Political,Moderate
+42,2014,Annexation of Crimea,Geopolitical,Moderate
+43,2003,Revelation of WikiLeaks,Political,Very High
+45,2000,Y2K Bug,Technological,Low
+46,2010,Global Financial Crisis,Economic,Very High
+47,2004,Bushfire Season in Australia,Natural,Moderate
+48,2015,Olympic Games Rio de Janeiro,Sporting,Moderate
+49,2016,Russo-Ukrainian War,Political,High
+50,2020,COVID-19 Pandemic,Public Health,Extreme
+51,2013,Same-sex Marriage Legalized in Argentina,Humanitarian,Moderate
+52,2015,Paris Climate Agreement,Environmental,High
+53,2010,Launch of the Tesla Model S,Technological,Moderate
+55,2005,Boston Marathon Bombing,Security,High
+56,2013,Same-Sex Marriage Legalized in USA,Social,Moderate
+57,2007,India's 'Right to Information' Act,Political,Moderate
+58,2016,Brexit Referendum,Political,High
+59,2018,Apple's iPhone X release,Technological,Moderate
+60,2022,Inauguration of Emmanuel Macron,Political,Moderate
+61,2016,Cambridge Analytica Scandal,Political,Moderate
+62,2016,Brexit Referendum,Political,Moderate
+63,2013,Fukushima Daiichi Nuclear Disaster,Environmental,High
+65,2010,Global Financial Crisis,Economic,Very High
+66,2015,Climate Change Agreement,Environmental,High
+67,2010,Deepwater Horizon Oil Spill,Environmental,Very High
+68,2018,Nobel Peace Prize for Malala Yousafzai,Humanitarian,Very High
+69,2020,COVID-19 Pandemic,Global Health,Extreme
+70,2023,Invention of Quantum Internet,Technological,Moderate
+71,2018,Facebook's Data Breach,Technological,High
+72,2017,Citizens United v. FEC Supreme Court Ruling,Political,Moderate
+73,2015,Black Lives Matter Movement,Social,High
+75,2012,Debut of Harry Potter on Netflix,Entertainment,Moderate
+76,2016,Brexit Referendum,Political,High
+77,2015,Arab Spring Movements,Social,High
+78,2019,Global Protests for Climate Action,Social,Moderate
+79,2021,Global Black Lives Matter protests,Social Movement,High
+80,2025,Global Shift to Renewable Energy,Environmental,High
+81,2020,COVID-19 Pandemic,Public Health,Extreme
+82,2018,Beirut Explosion,Humanitarian,High
+83,2017,Renewable Energy Surpasses Fossil Fuels,Technological,Very High
+85,2015,Arab Spring,Political,High
+86,2019,Global Pandemic (COVID-19),Health,Extremely High
+87,2017,#MeToo Movement,Social,High
+88,2020,COVID-19 Pandemic,Public Health,Very High
+89,2022,Blockchain Adoption,Technological,Moderate
+90,2027,Advent of Space Tourism,Technological,Moderate
+91,2021,Global Chip Shortage,Technological,High
+92,2019,Black Lives Matter Movement,Social Justice,High
+93,2019,Global Boycott of Mastercard,Economic,High
+95,2019,Brexit Referendum,Political,Moderate
+96,2021,Global Internet Boom,Technological,Moderate
+97,2020,COVID-19 Pandemic,Health,Very High
+98,2021,Crypto Crackdown in El Salvador,Financial,Moderate
+99,2023,Tech Innovation Expo,Technological,Moderate

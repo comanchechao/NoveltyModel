@@ -1,0 +1,74 @@
+idx,Year,Event,Category,Region/Global,Impact,Labels
+0,-480 BC,Battle of Salamis,Political,Global,A decisive naval battle in the Greco-Persian Wars,contributing to the eventual decline of Persian Empire.
+1,1776 AD,American Declaration of Independence,Political,North America,Initiated the foundation of the United States and inspired other nations towards self-governance and democracy.,
+2,1876 AD,Invention of Telephone,Technological,Global,Revolutionized global communication,making instant long-distance communication possible.
+3,1969 AD,Apollo 11 Moon Landing,Scientific,Global,Symbolized human achievement in space exploration,and marked the start of lunar exploration.
+4,2008 AD,Global Financial Crisis,Economic,Global,Triggered a worldwide economic recession,leading to major financial reforms and policy changes globally.
+5,-331 BC,Battle of Gaugamela,Political,Global,Had Alexander the Great defeated Darius III,the Persian Empire might have continued to exist. This battle marked a turning point leading to the fall of the Persian Empire.
+6,1991 AD,Dissolution of the Soviet Union,Political,Global,Marked the end of the Cold War era,leading to the emergence of 15 independent republics.
+7,1844 AD,Invention of the Electrical Telegraph,Technological,Global,Allowed for the first time in history,messages to be sent across vast distances instantly. This technology became the precursor to modern telecommunication systems.
+8,1957 AD,Launch of Sputnik 1,Scientific,Global,Initiated the space age and sparked the Space Race between the USA and USSR.,
+9,1929 AD,The Great Depression,Economic,Global,A severe worldwide economic depression that lasted from 1929 to 1939,leading to major financial reforms and policy changes.
+10,480 BC,Battle of Thermopylae,Military,Global,A critical stand by Greek city-states against the Persian army,boosting Greek morale and solidarity.
+11,1453 AD,Fall of Constantinople,Political,Europe/Global,Marked the end of the Byzantine Empire and the rise of the Ottoman Empire,leading to shifts in trade routes and cultural exchanges.
+12,Invention of the Telegraph,Technological,Global,Enabled swift,long-distance communication through Morse code,revolutionized global information exchange.
+13,1959 AD,Lunar Orbit,Scientific,Global,The first successful man-made object to orbit the Moon,setting the stage for future lunar missions.
+14,1913 AD,Federal Reserve Act,Economic,Global,Established the Federal Reserve System in the United States,marking the creation of a central banking system to manage the country's monetary policy.
+15,-330 BC,Death of Artaxerxes III,Political,Global,The death of the Persian King Artaxerxes III weakened the empire,contributing to internal instability and vulnerability to external threats.
+16,1999 AD,Google's Initial Public Offering,Economic,Global,Began Google's journey as a publicly traded company,which has since become a dominant player in the global technology industry.
+17,1876 AD,Invention of Telephone,Technological,Global,Initiated the era of voice communication over long distances,eliminating the need for physical mail and leading to faster decision-making processes.
+18,1958 AD,Establishment of NASA,Scientific,Global,Created a centralized agency for space exploration in the United States,leading to increased focus on lunar exploration.
+19,1971 AD,End of Bretton Woods System,Economic,Global,The collapse of the Bretton Woods system,which led to the adoption of floating exchange rates and significant changes in international monetary policy.
+20,479 BC,Battle of Plataea,Military,Global,The Greek victory led to the withdrawal of Persian forces from Greece,contributing to the weakening of Persian influence.
+22,Invention of Telephone,Technological,Global,Allowed direct voice communication over long distances,eliminating the need for written messages and leading to faster decision-making.,
+23,1966 AD,Zond 3,Scientific,Global,The first spacecraft to take pictures of the Moon's far side,demonstrating the feasibility of lunar photography.
+24,1929 AD,Stock Market Crash,Economic,Global,Initiated the Great Depression,leading to significant economic downturns worldwide and the implementation of various economic reforms and regulatory measures.
+26,2001 AD,9/11 Attacks,Political,Global,Triggered global security reforms and led to the initiation of the War on Terror by the United States.,
+27,1896 AD,First Transatlantic Radio Broadcast,Technological,Global,Enabled audiences in different continents to receive the same broadcast simultaneously,making international news and entertainment possible.
+28,1961 AD,First Human in Space,Scientific,Global,Apollo 11 astronauts become the first humans to land on the Moon,setting a precedent for future missions.
+29,1987 AD,Black Monday,Economic,Global,One of the most significant stock market crashes in history,which led to the development of new financial regulations to prevent future crashes.
+30,459 BC,Battle of Salamis II,Military,Global,Second naval engagement in the Greco-Persian Wars,further depleting Persian naval power.
+32,First Balloon-Based Transatlantic Radio Broadcast,Technological,Global,Demonstrated the potential of wireless communication over long distances,paving the way for international broadcasting.,
+33,1966 AD,Zond 5,Scientific,Global,The first spacecraft to return lunar soil samples to Earth,providing invaluable data for scientists.
+34,1933 AD,New Deal,Economic,North America,Series of programs and projects instituted during the Great Depression,including economic reform measures to prevent a repeat of the depression.
+36,2007 AD,Launch of Facebook,Technological,Global,Transformed the landscape of social networking and online communication,influencing how people connect and share information.
+37,1927 AD,First Commercial Radio Broadcast,Technological,Global,Brought live events to the public,creating a shared experience for people across the world and paving the way for mass media.
+38,1962 AD,Vanguard TV3 Mission Failure,Scientific,Global,Failed to launch,but paved the way for future successes in lunar exploration.
+39,1997 AD,Asian Financial Crisis,Economic,Asia,A financial crisis that began in Thailand and affected many countries in Asia,leading to the implementation of various reforms in the financial sector.
+40,449 BC,Treaty of Callias,Political,Global,A peace agreement marking the end of hostilities between Persia and Athens,limiting Persian expansion.
+42,Invention of the Transistor,Technological,Global,Paved the way for miniaturization of electronic devices and the development of portable communication equipment.,,
+43,1969 AD,Apollo 11,Scientific,Global,The first manned lunar landing,with Neil Armstrong and Buzz Aldrin becoming the first humans to walk on the Moon.
+44,1944 AD,Bretton Woods Conference,Economic,Global,Led to the establishment of the International Monetary Fund (IMF) and the World Bank to ensure economic stability and foster international trade.,
+46,2010 AD,Release of the iPad,Technological,Global,Introduced a new category of personal computing devices,significantly impacting the technology and media industries.
+47,1947 AD,First Transatlantic Cable Installed,Technological,Global,Enhanced the speed and reliability of communication between North America and Europe,thus facilitating international business and diplomacy.
+48,1965 AD,Apollo 9 Mission,Scientific,Global,Successfully tested the lunar module and spacecraft systems,preparing for the Moon landing.
+49,2000 AD,Dot-com Bubble Burst,Economic,Global,The burst of the dot-com bubble led to widespread changes in financial regulations,particularly concerning the technology sector.
+50,429 BC,Battle of the Eurymedon,Military,Mediterranean,Decisive Greek victories against Persian forces,restricting Persian access to Mediterranean trade routes.
+52,Birth of ARPANET,Technological,Global,Developed into the first network to implement the TCP/IP protocol suite,a precursor to the modern internet,facilitating real-time data exchange.
+53,1970 AD,Salyut 1,Scientific,Global,The first space station to be launched by the Soviet Union,with plans to carry out long-term human spaceflight missions.
+54,1971 AD,Nixon Shock,Economic,Global,Withdrew the United States from the Bretton Woods system,leading to floating exchange rates and greater economic independence for nations.
+56,2011 AD,Fukushima Daiichi Nuclear Disaster,Environmental,Global,Served as a wake-up call about the risks of nuclear energy and led to a reevaluation of energy policies worldwide.,
+57,1962 AD,First Global Communications Satellite,Technological,Global,Enabled real-time communication between any two points on the planet,reducing communication delays and fostering global connectivity.
+58,1969 AD,Apollo 11 Moon Landing,Scientific,Global,Apollo 11 successfully lands on the Moon,fulfilling the goal of President Kennedy to land a man on the Moon before the end of the decade.
+59,2008 AD,Global Financial Crisis,Economic,Global,Triggered a worldwide economic recession,leading to major financial reforms and policy changes.
+60,401 BC,Battle of Issus,Military,Asia Minor,Greek forces under Alexander the Great defeat the Persian army,signaling the beginning of the end for the Persian Empire.
+62,Introduction of 1G Cellular Network,Technological,Global,Marked the beginning of cellular telephony,allowing communication on the go,revolutionizing personal and business communication.
+63,1971 AD,Soyuz 11,Scientific,Global,The first human spaceflight to orbit the Moon and land on its surface,marking a significant milestone in lunar exploration.
+64,1986 AD,Chilean Coup,Political,South America,Overthrow of President Salvador Allende,leading to a new constitution and financial liberalization policies.
+66,2012 AD,Mars Rover Curiosity Landing,Scientific,Global,Represented a significant milestone in space exploration and the search for extraterrestrial life.,
+68,1972 AD,Apollo 17 Mission,Scientific,Global,Final mission of NASA's Apollo lunar program,returning the first Moon samples to Earth and establishing a Lunar Reconnaissance Orbiter for future exploration.
+69,2008 AD,Lehman Brothers Bankruptcy,Economic,Global,The bankruptcy of Lehman Brothers was a significant factor in the global financial crisis and led to changes in banking regulations.,
+70,334 BC,Battle of the Granicus,Military,Asia Minor,Alexander's victory opens up Asia Minor to Greek influence and marks the start of the decline of Persian power.,
+72,Invention of the World Wide Web,Technological,Global,Provided a new platform for global information sharing and communication,connecting millions of users and leading to the information age.,
+74,1992 AD,Maastricht Treaty,Political,European Union,Established the European Union and set the stage for economic and monetary union,eventually leading to the creation of the Euro.
+76,2014 AD,Chernobyl Exclusion Zone Tourism,Environmental,Global,Highlighted the long-term impacts of nuclear disasters on ecosystems and economies,and how some areas can recover over time.
+79,2008 AD,Sarbanes-Oxley Act,Legal,Global,A response to major accounting scandals,leading to stricter regulations for public companies and financial reporting.
+80,333 BC,Battle of Gaugamela,Military,Asia Minor,Alexander's decisive victory over Darius III of Persia,leading to the collapse of the Persian Empire's control over its territories.
+82,Launch of the First Web Browser,Internet,Global,Enabled the widespread use of the internet by the public,turning it into a common tool for instant communication.,
+84,2001 AD,Enron Scandal,Economic,Global,Exposed major financial fraud,leading to greater regulation and oversight of financial markets and corporate governance worldwide.
+86,2016 AD,Cambridge Analytica Scandal,Political,Global,Revealed the potential misuse of data in influencing political outcomes and raised concerns about privacy and ethics in the digital age.,
+89,2008 AD,Financial Stability Plan,Political,Global,A plan introduced by governments worldwide to stabilize the financial system during the crisis,leading to new regulations and oversight mechanisms.
+90,331 BC,Siege of Tyre,Military,Asia Minor,Alexander's conquest of Tyre demonstrates the vulnerability of Persian naval power and the strength of Macedonian military strategies.,
+92,Launch of Google Search,Internet,Global,Simplified access to the internet's vast information,facilitating immediate information retrieval and communication across the globe.,
+96,2018 AD,Release of WhatsApp End-to-End Encryption,Technological,Global,Set a new standard for privacy in digital communication,with implications for government surveillance and personal freedom.
+99,2008 AD,Basel III,Financial,Global,A set of international banking regulations developed in response to the financial crisis,focusing on improving the banking sector's ability to absorb shocks.
