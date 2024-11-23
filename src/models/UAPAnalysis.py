@@ -37,9 +37,16 @@ years_data = ufo_year.value_counts()
 years_index = years_data.index
 years_values = years_data.get_values()
 
-plt.figure(figsize= (15,8))
-plt.xticks(rotation=45)
-plt.title('UFO Sightings by Year')
-plt.bar(years_index, years_values)
+custom_palette = ['#F0386B']
+
+fig, ax = plt.subplots(figsize=(15, 8))
+ax.set_facecolor('#0E0E0D')
+fig.patch.set_facecolor('#1A1919')  
+plt.xticks(rotation=45 , color = 'white')
+plt.yticks(rotation=45 , color = 'white')
+plt.title('UFO Sightings by Year', color = 'white')
+plt.bar(years_index, years_values, color = 'skyblue')
+plt.ylabel("Sightings", color="white")
+plt.xlabel("Years", color="white")
 plt.show
-years_plot = sns.barplot(x=years_index[:60],y=years_values[:60], palette = "GnBu")
+years_plot = sns.barplot(x=years_index[:60],y=years_values[:60], palette = custom_palette)
