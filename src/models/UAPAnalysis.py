@@ -35,10 +35,10 @@ ufo_data['datetime'] = pd.to_datetime(ufo_data['datetime'], format='%m/%d/%Y %H:
 ufo_year = ufo_data['datetime'].dt.year
 years_data = ufo_year.value_counts()
 years_index = years_data.index
-years_values = years_data.get_values()
+years_values = years_data.values
 
 custom_palette = ['#F0386B']
-
+sns.lineplot(data=ufo_data)
 fig, ax = plt.subplots(figsize=(15, 8))
 ax.set_facecolor('#0E0E0D')
 fig.patch.set_facecolor('#1A1919')  
