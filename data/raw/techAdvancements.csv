@@ -1,0 +1,83 @@
+idx,Year,Event,Category,Region/Global,Impact,Label
+0,1769,Invention of the steam engine,Transportation,Europe,Very High,Revolutionary
+1,1876,Invention of the telephone,Communication,Global,High,Significant
+2,1947,Invention of the transistor,Electronics,Global,High,Significant
+3,1990,Introduction of the World Wide Web,Information Technology,Global,Very High,Revolutionary
+4,2007,Introduction of the smartphone,Consumer Electronics,Global,Very High,Revolutionary
+5,1903,First successful powered flight,Transportation,Europe,Very High,Revolutionary
+6,1903,First successful powered airplane flight,Transportation,Global,Very High,Revolutionary
+7,1804,Invention of the electric telegraph,Communication,Europe,High,Significant
+8,1903,First powered flight by the Wright brothers,Transportation,North America,High,Significant
+9,1830,Invention of the locomotive,Transportation,Europe,High,Revolutionary
+10,1969,First man on the Moon,Space Exploration,Global,Very High,Revolutionary
+12,1831,Discovery of Oxygen,Chemistry,Global,High,Significant
+14,1895,Discovery of X-rays,Medical,Global,High,Significant
+15,1969,First human moon landing,Space Exploration,Global,Very High,Revolutionary
+16,1928,Discovery of penicillin,Healthcare,Global,Very High,Revolutionary
+17,1903,Invention of the airplane,Transportation,Global,Very High,Revolutionary
+18,1928,Discovery of penicillin by Alexander Fleming,Medicine,Global,High,Significant
+19,1903,First controlled powered flight,Transportation,Global,High,Revolutionary
+20,1971,Invention of the microprocessor,Computing,Global,High,Significant
+22,1928,Discovery of Penicillin,Medicine,Global,High,Significant
+24,1903,Development of the first airplane,Transportation,Global,High,Significant
+25,1991,Introduction of the MRI scanner,Medical Technology,Global,High,Significant
+26,1957,Invention of the first semiconductor transistor,Electronics,Global,Very High,Revolutionary
+27,1954,Invention of the hard disk drive,Electronics,Global,High,Significant
+28,1969,First human moon landing,Space Exploration,Global,High,Significant
+29,1957,Invention of the first semiconductor transistor,Electronics,Global,High,Revolutionary
+30,1989,Creation of the World Wide Web,Information Technology,Global,Very High,Revolutionary
+32,1930,Invention of the Synthetic Dye,Chemistry,Global,High,Significant
+34,1928,Discovery of Penicillin,Medicine,Global,High,Significant
+35,2006,Launch of the first iPod,Consumer Electronics,Global,Very High,Revolutionary
+36,1969,Human landing on the Moon,Space Exploration,Global,Very High,Revolutionary
+37,1969,Moon landing,Space Exploration,Global,Very High,Revolutionary
+38,1971,Introduction of the first mobile phone,Communication,Global,High,Significant
+39,1969,Launch of the first communication satellite,Communication,Global,Very High,Revolutionary
+40,1991,Invention of the first 3D printer,Manufacturing,Global,High,Significant
+42,1969,First Human Moon Landing,Space Exploration,Global,High,Significant
+44,1956,Introduction of the first commercial jet airliner,Transportation,Global,High,Significant
+45,2012,Introduction of the Large Hadron Collider,Physics,Global,High,Significant
+46,1981,Introduction of the first mobile phone,Communication,Global,Very High,Revolutionary
+47,1973,Invention of the microprocessor,Electronics,Global,High,Significant
+48,1989,Invention of the World Wide Web by Tim Berners-Lee,Information Technology,Global,High,Significant
+49,1984,Invention of the DVD player,Entertainment,Global,High,Revolutionary
+50,2004,Launch of YouTube,Media & Entertainment,Global,Very High,Revolutionary
+52,1983,Invention of the Microprocessor,Computing,Global,High,Significant
+54,1976,Launch of the first ICBM (Intercontinental Ballistic Missile),Military,Global,High,Significant
+55,2014,Invention of CRISPR gene editing,Biotechnology,Global,Very High,Revolutionary
+56,1991,Invention of the World Wide Web,Information Technology,Global,Very High,Revolutionary
+57,1983,Introduction of the IBM Personal Computer,Consumer Electronics,Global,Very High,Revolutionary
+58,1991,Invention of the first search engine (Archie),Information Technology,Global,High,Significant
+59,1999,Invention of Wi-Fi,Communication,Global,Very High,Revolutionary
+60,2006,Invention of the Large Hadron Collider,Science,Global,High,Significant
+62,1991,Development of the World Wide Web,Information Technology,Global,High,Significant
+64,1984,Invention of the Microprocessor,Computing,Global,High,Significant
+65,2016,Invention of the quantum computer,Computer Science,Global,High,Significant
+66,1997,Creation of the first search engine (Yahoo!),Information Technology,Global,Very High,Revolutionary
+67,1990,Invention of the World Wide Web,Information Technology,Global,Very High,Revolutionary
+68,1997,Release of Windows 95 by Microsoft,Computing,Global,High,Significant
+69,2001,Invention of the first commercial online search engine,Information Technology,Global,High,Revolutionary
+70,2007,Introduction of the first iPhone,Consumer Electronics,Global,Very High,Revolutionary
+72,2003,Completion of the Human Genome Project,Biotechnology,Global,High,Significant
+74,1996,First human gene cloning,Biotechnology,Global,High,Significant
+75,2018,Launch of the James Webb Space Telescope,Space Exploration,Global,Very High,Revolutionary
+76,2004,Invention of the first modern smartphone,Consumer Electronics,Global,Very High,Revolutionary
+77,2001,Invention of the mp3 player,Consumer Electronics,Global,High,Significant
+78,2004,Release of the first iPhone by Apple Inc.,Consumer Electronics,Global,High,Significant
+79,2006,Introduction of 4G mobile technology,Communication,Global,Very High,Revolutionary
+80,2010,The Human Genome Project completed,Biotechnology,Global,Very High,Revolutionary
+82,2010,Invention of the Foldable Smartphone,Consumer Electronics,Global,High,Significant
+84,2001,Launch of the first commercial satellite for internet services,Communication,Global,High,Significant
+85,2020,Development of mRNA COVID-19 vaccines,Medical Technology,Global,Very High,Revolutionary
+86,2006,Invention of the first commercial tablet computer (iPad),Consumer Electronics,Global,Very High,Revolutionary
+87,2004,Invention of the first tablet,Consumer Electronics,Global,Very High,Revolutionary
+88,2008,Launch of the Large Hadron Collider,Science,Global,High,Significant
+89,2010,Invention of the electric vehicle,Transportation,Global,Very High,Revolutionary
+90,2011,Opening of the Large Hadron Collider,Science,Global,High,Significant
+92,2016,Development of CRISPR Gene Editing,Genetics,Global,High,Significant
+94,2012,Discovery of the Higgs boson,Physics,Global,High,Significant
+95,2022,Introduction of 5G networks,Telecommunications,Global,Very High,Revolutionary
+96,2012,Introduction of 4G technology,Communication,Global,Very High,Revolutionary
+97,2012,Invention of the smartwatch,Consumer Electronics,Global,High,Significant
+98,2010,Introduction of the first cloud storage services,Information Technology,Global,High,Significant
+99,2016,Invention of CRISPR gene editing,Biotechnology,Global,Very High,Revolutionary
