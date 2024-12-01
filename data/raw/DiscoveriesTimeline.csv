@@ -1,0 +1,80 @@
+idx,Year,Event,Category,Region/Global,Impact,labels
+0,1928,Discovery of Penicillin,Medical,Global,Significant,Medical Breakthrough
+1,1969,First Human Moon Landing,Space Exploration,Global,Revolutionary,Space Discovery
+2,1903,Wright Brothers' First Flight,Transportation,Global,Pioneering,Aviation
+3,1947,Harold McCormick and John R. Reed Invent First Integrated Circuit,Technology,Global,Foundational,Electronics
+4,1953,First Synthesized DNA,Genetics,Global,Groundbreaking,Genetics
+5,1822,First Vaccination (Edward Jenner),Medical,Global,Profound,Medical Breakthrough
+6,1957,Launch of Sputnik,Space Exploration,Global,Historic,Space Discovery
+7,1903,First Powered Flight by Wright Brothers,Aviation,Global,Pioneering,Aviation Breakthrough
+8,1927,Invention of the First Transistor,Technology,Global,Foundational,Electronics
+9,1952,Discovery of the Double Helix Structure of DNA,Genetics,Global,Groundbreaking,Genetics
+10,1846,Discovery of Cholera Vaccine,Public Health,Global,Significant,Medical Breakthrough
+11,1961,Yuri Gagarin Becomes First Human in Space,Space Exploration,Global,Historic,Space Discovery
+12,1903,Wright Brothers' First Flight,Transportation,Global,Pioneering,Aviation
+13,1947,Invention of the Transistor,Electronics,Global,Innovative,Electronics
+14,1865,Thomas Hunt Morgan and His Work on the White-Eye Gene in Fruit Flies,Genetics,Global,Foundation,Mendelian Genetics
+15,1928,Discovery of Penicillin,Medical,Global,Significant,Medical Breakthrough
+16,1961,First Human in Space,Space Exploration,Global,Historic,Space Discovery
+17,1914,Introduction of Commercial Air Travel,Aviation,Global,Revolutionary,Commercialization
+18,1956,Introduction of the First Silicon Transistor,Technology,Global,Innovative,Electronics
+19,1962,Agarophobia Genetics Research Begins,Genetics,Global,Significant,Genetics Study
+20,1928,Discovery of Penicillin,Medical,Global,Significant,Medical Breakthrough
+22,1911,First Powered Flight by Santos-Dumont,Transportation,Global,Historic,Aviation
+23,1956,First Portable Radio,Electronics,Global,Portable Technology,Electronics
+24,1951,James Watson and Francis Crick Describe the Structure of DNA,Genetics,Global,Milestone,DNA Structure
+25,1945,Discovery of Antibiotics (Penicillin Mass Production),Medical,Global,Transformative,Medical Breakthrough
+26,1969,First Human Moon Landing,Space Exploration,Global,Revolutionary,Space Discovery
+27,1939,Introduction of Jet Engines,Aviation,Global,Groundbreaking,Engine Innovation
+28,1970,Commercialization of the First Microprocessor,Technology,Global,Transformative,Electronics
+29,1972,Genetic Engineering of Crops Introduced,Agriculture,Global,Revolutionary,Genetics Application
+30,1971,Human Immunodeficiency Virus Identified,Medical,Global,Significant,Medical Breakthrough
+32,1914,Flight by J.T. Pauls,Transportation,Global,Innovative,Aviation
+33,1965,Integration of the Microprocessor,Electronics,Global,Transformative,Electronics
+34,1961,Linda B. Buck and Richard Axel Receive Nobel Prize for their Work on Olfactory Receptors,Genetics,Global,Advancement,Sensory Genetics
+35,1983,Discovery of HIV (First Known Case Identified),Medical,Global,Critical,Medical Breakthrough
+36,1981,First Space Shuttle Launch,Space Exploration,Global,Pioneering,Space Discovery
+38,1983,Development of the First Wireless Headset,Technology,Global,Game-changing,Electronics
+39,1983,Human Genome Project Initiated,Genetics,Global,Foundational,Genetics Research
+40,1928,Discovery of Insulin,Medical,Global,Significant,Medical Breakthrough
+42,1926,Introduction of Commercial Air Travel,Transportation,Global,Economic Impact,Aviation
+43,1973,First Personal Computer,Electronics,Global,Revolutionary,Computing
+44,1995,The Human Genome Project Completed,Genetics,Global,Transformative,Human Genome
+45,1990,Discovery of Monoclonal Antibodies,Medical,Global,Innovative,Medical Breakthrough
+46,1990,Launch of Hubble Space Telescope,Space Exploration,Global,Innovative,Space Discovery
+48,1998,Launch of the First Wireless Earphone,Technology,Global,Revolutionary,Electronics
+49,1990,Identification of the BRCA1 Gene,Genetics,Global,Significant,Genetics Study
+50,1953,First Synthesized DNA,Genetics,Global,Groundbreaking,Genetics
+52,1930,First Nonstop Transatlantic Flight,Transportation,Global,Historic,Aviation
+53,1980,Invention of the Laser Printer,Electronics,Global,Efficiency Improvement,Electronics
+54,2003,The International Human Genome Sequencing Consortium Reveals the Genetic Code,Genetics,Global,Key Discovery,Genetic Sequencing
+55,1998,Human Genome Mapping Completed,Genetics,Global,Revolutionary,Medical Breakthrough
+56,2004,Return of Mars Rovers,Space Exploration,Global,Technological,Space Discovery
+58,2007,Release of the First Smartphone with GPS,Technology,Global,Disruptive,Electronics
+59,1994,First Patient Treated with Genetically Modified Bacteria,Medical,Global,Revolutionary,Genetics Application
+60,1983,Discovery of Monoclonal Antibodies,Medical,Global,Significant,Medical Breakthrough
+62,1934,First Flight by Chuck Yeager,Transportation,Global,Military,Aviation
+63,1983,Creation of the World Wide Web,Electronics,Global,Connected World,Electronics
+64,2005,Jennifer Doudna and Emmanuelle Charpentier Introduce CRISPR-Cas9 for Genome Editing,Genetics,Global,Innovation,CRISPR-Cas9
+65,2003,CRISPR Gene Editing Discovered,Genetics,Global,Revolutionary,Medical Breakthrough
+66,2012,Pluto Reclassified as a Dwarf Planet,Space Exploration,Global,Astronomical,Space Discovery
+68,2010,Invention of the Foldable Smartphone Display,Technology,Global,Groundbreaking,Electronics
+69,2003,Complete Human Genome Sequenced,Genetics,Global,Foundational,Genetics Research
+70,1988,First Cloned Animal,Medicine,Global,Revolutionary,Biotechnology
+72,1939,First Instrument Landing System,Transportation,Global,Safety Improvement,Aviation
+73,1991,Introduction of the DVD,Electronics,Global,Storage Revolution,Electronics
+76,2015,First Inflatable Space Habitat Launched,Space Exploration,Global,Experimental,Space Discovery
+78,2013,Development of the First Smartwatch with Heart Rate Monitor,Technology,Global,Innovative,Electronics
+79,2010,CRISPR Gene Editing Breakthrough,Genetics,Global,Revolutionary,Genetics Innovation
+80,1989,Discovery of Human Genome,Genetics,Global,Groundbreaking,Genetics
+82,1940,Introduction of Jet Engine,Transportation,Global,Technological,Aviation
+83,2000,Launch of the iPod,Electronics,Global,Portable Media,Electronics
+86,2018,First Automated Rover to Mars,Space Exploration,Global,Technological,Space Discovery
+88,2015,Introduction of 5G Technology,Technology,Global,Game-changing,Electronics
+89,2015,Gene Therapy Clinical Trials for Lysosomal Storage Disorders,Medical,Global,Significant,Genetics Therapy
+90,2000,Human Genome Project Completed,Genetics,Global,Groundbreaking,Genetics
+92,1947,First Jet Airliner - De Havilland Comet,Transportation,Global,Technological,Aviation
+93,2007,Introduction of the iPhone,Electronics,Global,Mobile Communication,Electronics
+96,2020,First Human Mars Rover Landing,Space Exploration,Global,Historic,Space Discovery
+98,2020,First Solar-Powered Smartphone,Technology,Global,Sustainable,Electronics
+99,2018,CRISPR-Cas9 Used to Edit Human Embryos,Genetics,Global,Controversial,Genetics Ethics

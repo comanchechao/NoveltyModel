@@ -114,6 +114,7 @@ repos = [
     "https://huggingface.co/datasets/infinite-dataset-hub/HistoricalEvents2023",
     "https://huggingface.co/datasets/infinite-dataset-hub/GlobalCulturalShift",
     "https://huggingface.co/datasets/infinite-dataset-hub/TechAdvancements"
+    "https://huggingface.co/datasets/infinite-dataset-hub/DiscoveriesTimeline"
 ]
 
 # Function to process a single repository
